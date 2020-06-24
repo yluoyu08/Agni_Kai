@@ -1,5 +1,7 @@
 # Agni_Kai
-Young prince and princess of the Fire Nation follow their father Ozai into the stage. They are about to watch a sibling fight in an Agni Kai. Rules are simple, the winner lives, the loser dies. This is an unchangeable judgment made by the Fire Load, plain but cruel.
+
+Summary: 年轻的祖克和阿祖拉随傲宰入席，他们即将在高台上目睹一场烈火祭，一对兄弟拼劲全力、以命相搏；胜者生、败者死。这是烈火王不容置疑的判决，简洁而残酷。<br />
+
 <p>01</p>
 
 <p>火焰在跳动，时而向左，时而向右。</p>
